@@ -2,17 +2,21 @@
 
 Here lies collection of useful CTF tools, manuals an info.
 
-# Manuals
+Manuals
+===================
 [CTFKatana](https://github.com/JohnHammond/ctf-katana) - list of different ways to approach CTF tasks.
 
 [Payload all the things](https://github.com/swisskyrepo/PayloadsAllTheThings) - a lot of different payload examples/tools.
 
-# Web
+Web
+==================
 ## JavaScript
 [JWT](https://jwt.io) - JSON token decryptor.
 
-# Crypto
+Crypto
+==================
 [RegExpr](https://regexr.com) - regular expressions guide/testing tool.
 
-# Misc
+Misc
+==================
 [Online Sequencer](https://onlinesequencer.net/) - could be useful for music/note challenges.
