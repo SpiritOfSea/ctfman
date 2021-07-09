@@ -2,6 +2,14 @@
 
 Here lies collection of useful CTF tools, manuals an info.
 
+Table of contents
+===================
+1. [Manuals](#manuals)
+2. [Web](#web)
+    - [JavaScript](#javascript)
+3. [Crypto](#crypto)
+4. [Misc](#misc)
+
 Manuals
 ===================
 [CTFKatana](https://github.com/JohnHammond/ctf-katana) - list of different ways to approach CTF tasks.
