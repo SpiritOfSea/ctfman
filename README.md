@@ -18,6 +18,8 @@ Manuals
 
 Web
 ==================
+## XSS
+[XSSHunter](https://xsshunter.com/app)
 ## JavaScript
 [JWT](https://jwt.io) - JSON token decryptor.
 
