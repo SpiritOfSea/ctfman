@@ -20,12 +20,14 @@ Web
 ==================
 ## XSS
 [XSSHunter](https://xsshunter.com/app)
+[HookBin](https://hookbin.com/)
 ## JavaScript
 [JWT](https://jwt.io) - JSON token decryptor.
 
 Crypto
 ==================
 [RegExpr](https://regexr.com) - regular expressions guide/testing tool.
+[CRC Re](https://reveng.sourceforge.io/) - CRC reverse tool
 
 Misc
 ==================
