@@ -21,13 +21,17 @@ Web
 ==================
 ## XSS
 [XSSHunter](https://xsshunter.com/app)
+
 [HookBin](https://hookbin.com/)
 ## JavaScript
 [JWT](https://jwt.io) - JSON token decryptor.
+## PHP
+[PHP reverse shell](http://pentestmonkey.net/tools/web-shells/php-reverse-shell)
 
 Crypto
 ==================
 [RegExpr](https://regexr.com) - regular expressions guide/testing tool.
+
 [CRC Re](https://reveng.sourceforge.io/) - CRC reverse tool
 
 PWN
