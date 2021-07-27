@@ -8,7 +8,8 @@ Table of contents
 2. [Web](#web)
     - [JavaScript](#javascript)
 3. [Crypto](#crypto)
-4. [Misc](#misc)
+4. [PWN](#pwn)
+5. [Misc](#misc)
 
 Manuals
 ===================
@@ -28,6 +29,10 @@ Crypto
 ==================
 [RegExpr](https://regexr.com) - regular expressions guide/testing tool.
 [CRC Re](https://reveng.sourceforge.io/) - CRC reverse tool
+
+PWN
+==================
+[GTFOBin](https://gtfobins.github.io/) - escalations
 
 Misc
 ==================
