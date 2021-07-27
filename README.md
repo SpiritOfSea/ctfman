@@ -19,12 +19,17 @@ Manuals
 
 Web
 ==================
+## General
+[RevShell generator](https://www.revshells.com/)
+
 ## XSS
 [XSSHunter](https://xsshunter.com/app)
 
 [HookBin](https://hookbin.com/)
+
 ## JavaScript
 [JWT](https://jwt.io) - JSON token decryptor.
+
 ## PHP
 [PHP reverse shell](http://pentestmonkey.net/tools/web-shells/php-reverse-shell)
 
