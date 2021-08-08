@@ -21,6 +21,7 @@ Web
 ==================
 ## General
 [RevShell generator](https://www.revshells.com/)
+[.pcap analizer](https://apackets.com/upload)
 
 ## XSS
 [XSSHunter](https://xsshunter.com/app)
